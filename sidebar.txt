@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zts:home|Door43 (zts)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zts|d43-zts repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zts/archive/master.zip|d43-zts.zip]]
+
+**Recent Changes**
+{{changes>ns = zts}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zts|Ethnologue data]]
+
